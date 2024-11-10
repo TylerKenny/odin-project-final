@@ -92,7 +92,6 @@
   }
 
   .header-logo-text {
-    margin-left: 100px;
     font-size: 24px;
     color: #f9faf8;
     margin-right: auto;
@@ -131,3 +130,8 @@
     margin-right: 100px;
   }
   
+  .hero-container {
+    display: flex;
+    background-color: #1f2937;
+    padding-left: 100px;
+  }
