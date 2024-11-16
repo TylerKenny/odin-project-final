@@ -108,7 +108,10 @@
   }
 
   .quote-section {
+    display: flex;
+    flex-direction: column;
     background-color: #e5e7eb;
+    padding: 100px;
   }
 
   .quote-text {
@@ -134,4 +137,26 @@
     display: flex;
     background-color: #1f2937;
     padding-left: 100px;
+  }
+
+  .card{
+    border-radius: 25px;
+    border: 2px solid #3882f6;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+  }
+
+  .card-container {
+    justify-content: center;
+  }
+  
+  .card-holder {
+    display: flex;
+  }
+
+
+  .quote-callout {
+    font-weight: bold;
+    margin-left: auto;
   }
