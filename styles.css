@@ -66,3 +66,28 @@
     padding: 10px 30px;
     font-weight: 900;
   }
+
+  .secondary-text {
+    color: #1f2937;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+  }
+
+  .container {
+    display: flex;
+    gap: 60px;
+    margin: 0 200px;
+    justify-content: center;
+  }
+  .rectangle {
+    border: 5px solid #3882f6;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+  }
+  .rect-container {
+    width: 200px;
+    word-wrap: break-word;
+    text-align: center;
+  }
