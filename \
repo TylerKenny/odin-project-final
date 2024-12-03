@@ -113,14 +113,13 @@ a, .hero-secondary-text {
 .blue-rect {
   background-color: #3882f6;
   border-radius: 25px;
-  width: 1000px;
-  height: 100px;
+  width: 1200px;
+  height: 200px;
   margin: 100px;
-  padding: 40px;
 }
 
 .btn-2 {
-  border: 2px solid #e5e7eb;
+  border: 5px solid #e5e7eb;
   border-radius: 5px;
   background-color: #3882f6;
   color: #e5e7eb;
